@@ -1,2 +1,4 @@
 # project101
-1st Tutorial
+1st Exercise on "Git and Github" 
+
+-towshif
